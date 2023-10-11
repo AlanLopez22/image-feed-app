@@ -12,4 +12,4 @@ Note: If you are running on Windows run install --noptional flag (i.e. `npm inst
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start playing with the pagination bar at bottom of the page to fetch images from the public API [rickandmortyapi](https://rickandmortyapi.com/api/character).
+You can start playing with the pagination bar at bottom of the page to fetch images from the public API [rickandmortyapi](https://rickandmortyapi.com/api/character), initially will load images from the first page.
