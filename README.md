@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 To get started, just clone the repository and run `npm install && npm run dev`:
 
-    git clone https://github.com/AlanLopez22/reactjs-assesment.git
+    git clone https://github.com/AlanLopez22/image-feed-app.git
     npm install
     npm run dev
 
